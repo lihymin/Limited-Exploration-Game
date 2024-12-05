@@ -76,7 +76,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 5
+  m_SortingOrder: 4
   m_Sprite: {fileID: -197918334, guid: 86dba62def7240640ab7b2194781e077, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -170,6 +170,7 @@ MonoBehaviour:
   player: {fileID: 0}
   playerLogic: {fileID: 0}
   speed: 0.5
+  damage: 0
   colorResetTime: 0.1
   textOffTime: 0.3
   maxHealth: 0
@@ -185,5 +186,5 @@ MonoBehaviour:
   number: 0
   sprite: {fileID: 0}
   anim: {fileID: 0}
-  hpPlusItem:
-  - {fileID: 0}
+  Items: []
+  monsterFindDistance: 0

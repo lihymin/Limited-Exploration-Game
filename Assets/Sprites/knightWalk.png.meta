@@ -131,8 +131,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 26b51e8d6fa37b74d949c6c752f481d0
-      internalID: 1609448616
+      spriteID: 4fcff2b3ff530d3498a1669200946fed
+      internalID: -1398551074
       vertices: []
       indices: 
       edges: []
@@ -152,8 +152,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eaf6253e866f73d4586f05942a542361
-      internalID: 1024677349
+      spriteID: de0b046c5e65f9041b812ff44f411885
+      internalID: -1475353315
       vertices: []
       indices: 
       edges: []
@@ -173,8 +173,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8ed9c9c6e482a1f41a8b195217f7e1ce
-      internalID: -1405202350
+      spriteID: 98bb952ca2c0d3e47b3beb27962aa638
+      internalID: 1012863229
       vertices: []
       indices: 
       edges: []
@@ -194,8 +194,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a02a44e6f4570524b98437908feaa847
-      internalID: 1014403890
+      spriteID: 2e68207e4951604449bc8985fdd9e5c0
+      internalID: -301899963
       vertices: []
       indices: 
       edges: []
@@ -215,8 +215,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 896b1701b3cb9c94bbe294d57e61e15d
-      internalID: 2118069515
+      spriteID: 3da3abfaea50b4b43a71be12dc002f2c
+      internalID: 1925216867
       vertices: []
       indices: 
       edges: []
@@ -236,8 +236,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3db45a737d853b345915104452e0da55
-      internalID: 671806932
+      spriteID: 0501a412232b0e94fb4010e1ed557192
+      internalID: 1149360159
       vertices: []
       indices: 
       edges: []
@@ -257,8 +257,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c3f09538d4387684eb7fbc5db3656153
-      internalID: 732104812
+      spriteID: cc872f41114967a4288f61a1a4f66714
+      internalID: -1692729307
       vertices: []
       indices: 
       edges: []
@@ -274,13 +274,13 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      knightWalk_3: 1014403890
-      knightWalk_1: 1024677349
-      knightWalk_4: 2118069515
-      knightWalk_5: 671806932
-      knightWalk_2: -1405202350
-      knightWalk_0: 1609448616
-      knightWalk_6: 732104812
+      knightWalk_3: -301899963
+      knightWalk_1: -1475353315
+      knightWalk_4: 1925216867
+      knightWalk_5: 1149360159
+      knightWalk_2: 1012863229
+      knightWalk_0: -1398551074
+      knightWalk_6: -1692729307
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

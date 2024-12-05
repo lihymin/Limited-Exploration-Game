@@ -102,8 +102,10 @@ MonoBehaviour:
   gameManager: {fileID: 0}
   player: {fileID: 0}
   playerLogic: {fileID: 0}
-  isDead: 0
-  plusHp: 0
+  isCollision: 0
+  isEquipment: 00
+  plusHp: 
+  plusMana: 
   textOffTime: 0.3
   curTextTime: 0
   number: 14

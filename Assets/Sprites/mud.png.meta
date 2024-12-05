@@ -131,8 +131,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e44045868ae8b14eba00c41d0884872
-      internalID: 1272979866
+      spriteID: 3d855974f39512d4999947bfe324373a
+      internalID: -7209341
       vertices: []
       indices: 
       edges: []
@@ -152,8 +152,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: af3751ea70c795d469cb30122676c6f8
-      internalID: -1449244391
+      spriteID: 8f47ba4d121094649befe6697a1e0c6b
+      internalID: 1250802187
       vertices: []
       indices: 
       edges: []
@@ -173,8 +173,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ba28222b48fadf3408969ae922d3bb03
-      internalID: 1344362049
+      spriteID: c163ff28dd89aad4c95cd21a5965e7a5
+      internalID: -988149640
       vertices: []
       indices: 
       edges: []
@@ -194,8 +194,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0c40f0e87fa01a443ba805ff2d1bda88
-      internalID: -2147126454
+      spriteID: 28aeb8f9d7a62db4d9a44bc8375aa60b
+      internalID: -815168739
       vertices: []
       indices: 
       edges: []
@@ -215,8 +215,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 680a2e51f3ffbda42b5ec65332798011
-      internalID: -1059610528
+      spriteID: a152af70bc1cb9f49a19c976e54e43f6
+      internalID: -257473118
       vertices: []
       indices: 
       edges: []
@@ -236,8 +236,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2eea7508db87e72408e4b02042734c5b
-      internalID: 1005967611
+      spriteID: 17f7a170ded52124cb6d0974f6581932
+      internalID: -993833389
       vertices: []
       indices: 
       edges: []
@@ -253,12 +253,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      mud_1: -1449244391
-      mud_3: -2147126454
-      mud_5: 1005967611
-      mud_2: 1344362049
-      mud_0: 1272979866
-      mud_4: -1059610528
+      mud_1: 1250802187
+      mud_3: -815168739
+      mud_5: -993833389
+      mud_2: -988149640
+      mud_0: -7209341
+      mud_4: -257473118
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
